@@ -5,6 +5,7 @@ const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
 //javascript has a type "DATE" and she automatically sets the date
+//my birthday is day 20 but the computer doesn't count one day so you add here
 const newYears = '21 Feb 2022';
 
 //I made this function to keep picking-up the current time 
